@@ -19,4 +19,7 @@ If you want to have Org Mode export as an HTML5 doctype, set the org-html-doctyp
 
 ## Noteworthy mentions
 [orgcss](https://github.com/gongzhitaao/orgcss)
+
+[orgmode-slideshow](http://www.mauc.nl/presentations/test.html)
+
 [bestowed](https://github.com/robrohan/bestowed)
